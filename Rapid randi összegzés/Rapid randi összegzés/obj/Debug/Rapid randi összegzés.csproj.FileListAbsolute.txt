@@ -1,0 +1,7 @@
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\bin\Debug\Rapid randi összegzés.exe.config
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\bin\Debug\Rapid randi összegzés.exe
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\bin\Debug\Rapid randi összegzés.pdb
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\obj\Debug\Rapid randi összegzés.csprojResolveAssemblyReference.cache
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\obj\Debug\Rapid randi összegzés.csproj.CoreCompileInputs.cache
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\obj\Debug\Rapid randi összegzés.exe
+E:\Szegedi Református Egyetemi Gyülekezet\Rapid randi\Rapid-randi-osszegzes\Rapid randi összegzés\Rapid randi összegzés\obj\Debug\Rapid randi összegzés.pdb
